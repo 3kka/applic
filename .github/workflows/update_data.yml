@@ -1,0 +1,44 @@
+name: Fetch Google Sheet and Purge CDN
+
+on:
+  schedule:
+    # Runs automatically every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows you to manually click "Run workflow" in GitHub UI
+
+jobs:
+  sync-data:
+    runs-on: ubuntu-latest
+    
+    # Grants runner permission to write file updates back to the repo
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Setup Python environment
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        pip install pandas openpyxl
+
+    - name: Execute Conversion Script
+      run: python convert.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add data.json
+        # Only commits if differences exist, avoiding empty action loops
+        git diff-index --quiet HEAD || (git commit -m "Automated data synchronization" && git push)
+
+    - name: Purge jsDelivr CDN Cache
+      run: |
+        echo "Purging jsDelivr cache..."
+        curl -X POST https://purge.jsdelivr.net/gh/${{ github.repository }}@main/data.json
