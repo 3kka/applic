@@ -32,9 +32,9 @@ jobs:
       - name: Install Python dependencies
         run: pip install pandas requests
 
-      - name: Compile data.json from Google Sheets CSV
+      - name: Compile data.json from Google Sheets payload
         env:
-          SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
+          RAW_DATA: ${{ github.event.client_payload.raw_data }}
         run: python convert.py
 
       - name: Commit updated data.json to repository
