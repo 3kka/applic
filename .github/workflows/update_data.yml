@@ -68,9 +68,6 @@ jobs:
 
       - name: Purge jsDelivr CDN edge cache
         run: |
-          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
-            -X POST "https://purge.jsdelivr.net/gh/3kka/applic@main/data.json" \
-            -H "Content-Type: application/json")
-          echo "jsDelivr purge HTTP status: $HTTP_STATUS"
-          # 200 = purge accepted. Non-200 is logged but does not fail the build.
+          # Instantly purge jsDelivr cache for this file
+          curl -s https://purge.jsdelivr.net/gh/3kka/applic@main/data.json
 
