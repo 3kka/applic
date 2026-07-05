@@ -1,44 +1,58 @@
-name: Fetch Google Sheet and Purge CDN
+# File: .github/workflows/update_data.yml
+# Place this inside the 3kka/applic GitHub repository.
+#
+# GitHub Repo Secrets required (Settings → Secrets → Actions):
+#   SHEET_CSV_URL  →  The "Publish to web" CSV URL of your Google Sheet
+#                     (File → Share → Publish to web → CSV format)
+
+name: Update RRB NTPC Schedule Data
 
 on:
-  schedule:
-    # Runs automatically every 6 hours
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # Allows you to manually click "Run workflow" in GitHub UI
+  repository_dispatch:
+    types: [update_data]   # Fired by the Google Apps Script onEdit webhook
+  workflow_dispatch:       # Allows manual trigger from GitHub Actions UI
 
 jobs:
-  sync-data:
+  compile-and-deploy:
     runs-on: ubuntu-latest
-    
-    # Grants runner permission to write file updates back to the repo
+
     permissions:
-      contents: write
+      contents: write      # Required to git commit data.json back to the repo
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Setup Python environment
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
 
-    - name: Install dependencies
-      run: |
-        pip install pandas openpyxl
+      - name: Install Python dependencies
+        run: pip install pandas requests
 
-    - name: Execute Conversion Script
-      run: python convert.py
+      - name: Compile data.json from Google Sheets CSV
+        env:
+          SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
+        run: python convert.py
 
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add data.json
-        # Only commits if differences exist, avoiding empty action loops
-        git diff-index --quiet HEAD || (git commit -m "Automated data synchronization" && git push)
+      - name: Commit updated data.json to repository
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add data.json
+          # Only commit if data.json actually changed — prevents empty commits
+          git diff --staged --quiet \
+            && echo "No changes to data.json. Skipping commit." \
+            || git commit -m "chore: sync schedule data from Google Sheets [skip ci]"
+          git push
 
-    - name: Purge jsDelivr CDN Cache
-      run: |
-        echo "Purging jsDelivr cache..."
-        curl -X POST https://purge.jsdelivr.net/gh/${{ github.repository }}@main/data.json
+      - name: Purge jsDelivr CDN edge cache
+        run: |
+          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
+            -X POST "https://purge.jsdelivr.net/gh/3kka/applic@main/data.json" \
+            -H "Content-Type: application/json")
+          echo "jsDelivr purge HTTP status: $HTTP_STATUS"
+          # 200 = purge accepted. Non-200 is logged but does not fail the build.
+
