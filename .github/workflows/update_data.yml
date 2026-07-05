@@ -66,8 +66,4 @@ jobs:
             sleep $((i * 2))
           done
 
-      - name: Purge jsDelivr CDN edge cache
-        run: |
-          # Instantly purge jsDelivr cache for this file
-          curl -s https://purge.jsdelivr.net/gh/3kka/applic@main/data.json
 
