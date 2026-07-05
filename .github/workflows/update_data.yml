@@ -1,9 +1,7 @@
 # File: .github/workflows/update_data.yml
 # Place this inside the 3kka/applic GitHub repository.
 #
-# GitHub Repo Secrets required (Settings → Secrets → Actions):
-#   SHEET_CSV_URL  →  The "Publish to web" CSV URL of your Google Sheet
-#                     (File → Share → Publish to web → CSV format)
+# No GitHub Repo Secrets are required for this workflow.
 
 name: Update RRB NTPC Schedule Data
 
