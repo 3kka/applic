@@ -32,8 +32,8 @@ import sys
 import json
 import pandas as pd
 
-SHEET_CSV_URL = os.environ.get('SHEET_CSV_URL')
-OUTPUT_FILE   = 'data.json'
+RAW_DATA = os.environ.get('RAW_DATA')
+OUTPUT_FILE = 'data.json'
 
 
 def build_iso(date_val: str, iso_val: str) -> list:
@@ -53,28 +53,27 @@ def build_iso(date_val: str, iso_val: str) -> list:
 
 
 def main():
-    if not SHEET_CSV_URL:
-        print('ERROR: SHEET_CSV_URL environment variable is not set.', file=sys.stderr)
+    if not RAW_DATA:
+        print('ERROR: RAW_DATA environment variable is not set or is empty.', file=sys.stderr)
         sys.exit(1)
 
-    print(f'Fetching CSV from Google Sheets...')
+    print(f'Parsing live sheet data from payload...')
 
     try:
-        # ── Core CSV read ────────────────────────────────────────────────────
-        # pandas.read_csv implements RFC 4180 quoting out of the box.
-        # Any cell value like: "NTPC, Group D"  is parsed as: NTPC, Group D
-        # No custom split logic needed.
-        df = pd.read_csv(
-            SHEET_CSV_URL,
-            dtype=str,              # Read every column as raw string
-            keep_default_na=False,  # Treat empty cells as '' not NaN
-            skipinitialspace=True,  # Strip whitespace after each comma
-        )
+        data_matrix = json.loads(RAW_DATA)
+        if not data_matrix or len(data_matrix) < 2:
+            print('ERROR: Sheet data is empty or missing headers.', file=sys.stderr)
+            sys.exit(1)
+            
+        headers = data_matrix[0]
+        rows = data_matrix[1:]
+        df = pd.DataFrame(rows, columns=headers)
+        
     except Exception as e:
-        print(f'ERROR: Failed to fetch or parse CSV: {e}', file=sys.stderr)
+        print(f'ERROR: Failed to parse RAW_DATA JSON: {e}', file=sys.stderr)
         sys.exit(1)
 
-    print(f'Raw CSV shape: {df.shape[0]} rows × {df.shape[1]} columns')
+    print(f'Raw DataFrame shape: {df.shape[0]} rows × {df.shape[1]} columns')
     print(f'Columns found: {list(df.columns)}')
 
     # ── Normalize column names ────────────────────────────────────────────────
