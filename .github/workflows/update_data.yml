@@ -12,6 +12,10 @@ on:
     types: [update_data]   # Fired by the Google Apps Script onEdit webhook
   workflow_dispatch:       # Allows manual trigger from GitHub Actions UI
 
+concurrency:
+  group: "update_data"
+  cancel-in-progress: true
+
 jobs:
   compile-and-deploy:
     runs-on: ubuntu-latest
@@ -46,7 +50,21 @@ jobs:
           git diff --staged --quiet \
             && echo "No changes to data.json. Skipping commit." \
             || git commit -m "chore: sync schedule data from Google Sheets [skip ci]"
-          git push
+          # Retry push up to 3 times to handle any residual split-second race conditions
+          for i in 1 2 3; do
+            git push && break || {
+              echo "Push rejected! Another edit just committed. Rebasing..."
+              # Fetch the latest commits that beat us to the punch
+              git pull --rebase origin main
+              
+              # If we had a merge conflict on data.json (since both runs modify it),
+              # we just forcibly regenerate our newer version over the conflict.
+              python convert.py
+              git add data.json
+              git commit --amend --no-edit || true
+            }
+            sleep $((i * 2))
+          done
 
       - name: Purge jsDelivr CDN edge cache
         run: |
