@@ -1,6 +1,6 @@
 {
   "RRB NTPC": {
-    "pageTitle": "RRB NTPC Schedule",
+    "pageTitle": "RRB NTPC 2026Schedule",
     "records": [
       {
         "event": "IBPS PO (Mains)",
@@ -31,7 +31,7 @@
         ]
       },
       {
-        "event": "Juice",
+        "event": "Tracker",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
