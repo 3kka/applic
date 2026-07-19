@@ -1,32 +1,44 @@
 {
-  "UPSC": {
-    "pageTitle": "UPSC 2026 Schedule",
+  "IBPS PO": {
+    "pageTitle": "IBPS PO 2026 Schedule",
     "records": [
       {
-        "date": "2026-07-19",
+        "event": "IBPS PO (Prelims)",
+        "date": "2026-07-20",
         "iso": [
-          "2026-07-19"
+          "2026-07-20"
         ]
       },
       {
+        "event": "IBPS PO (Mains)",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
+        "event": "IBPS SO (Prelims)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
+        "event": "IBPS SO (Mains)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
+        "event": "IBPS Clerk (Prelims)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "IBPS Clerk (Mains)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -74,86 +86,39 @@
       }
     ]
   },
-  "SSC CGL": {
-    "pageTitle": "SSC 2026 Schedule",
+  "UPSC": {
+    "pageTitle": "UPSC 2026 Schedule",
     "records": [
       {
-        "event": "Online Application Start",
-        "date": "2026-07-20",
-        "iso": [
-          "2026-07-20"
-        ]
-      },
-      {
-        "event": "Last Date to Apply",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "Last Date for Fee Payment",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Application Correction Window",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tier-1 Exam Date",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tier-2 Exam Date",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
-  "RRB NTPC": {
-    "pageTitle": "RRB NTPC 2026 Schedule",
-    "records": [
-      {
-        "event": "IBPS PO (Mains)",
+        "event": "UPSC Prelims Exam Date",
         "date": "2026-07-19",
         "iso": [
           "2026-07-19"
         ]
       },
       {
-        "event": "Results",
+        "event": "Prelims Result Declaration",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "Marksheet",
+        "event": "DAF-I",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Feedback",
+        "event": "UPSC Mains Exam",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Tracker",
+        "event": "The Best",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -229,46 +194,86 @@
       }
     ]
   },
-  "IBPS PO": {
-    "pageTitle": "IBPS PO 2026 Schedule",
+  "RRB NTPC": {
+    "pageTitle": "RRB NTPC 2026 Schedule",
     "records": [
       {
-        "event": "IBPS PO (Prelims)",
-        "date": "2026-07-20",
+        "event": "IBPS PO (Mains)",
+        "date": "2026-07-19",
         "iso": [
-          "2026-07-20"
+          "2026-07-19"
         ]
       },
       {
-        "event": "IBPS PO (Mains)",
+        "event": "Results",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "IBPS SO (Prelims)",
+        "event": "Marksheet",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "IBPS SO (Mains)",
+        "event": "Feedback",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "IBPS Clerk (Prelims)",
+        "event": "Tracker",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "SSC CGL": {
+    "pageTitle": "SSC 2026 Schedule",
+    "records": [
+      {
+        "event": "Online Application Start",
+        "date": "2026-07-20",
+        "iso": [
+          "2026-07-20"
+        ]
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "Last Date for Fee Payment",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "IBPS Clerk (Mains)",
+        "event": "Application Correction Window",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tier-1 Exam Date",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tier-2 Exam Date",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
