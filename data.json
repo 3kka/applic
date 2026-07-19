@@ -1,44 +1,91 @@
 {
-  "SSC CGL": {
-    "pageTitle": "SSC 2026 Schedule",
+  "IBPS PO": {
+    "pageTitle": "IBPS PO 2026 Schedule",
     "records": [
       {
-        "event": "Online Application Start",
+        "event": "IBPS PO (Prelims)",
         "date": "2026-07-20",
         "iso": [
           "2026-07-20"
         ]
       },
       {
-        "event": "Last Date to Apply",
+        "event": "IBPS PO (Mains)",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "Last Date for Fee Payment",
+        "event": "IBPS SO (Prelims)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Application Correction Window",
+        "event": "IBPS SO (Mains)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Tier-1 Exam Date",
+        "event": "IBPS Clerk (Prelims)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Tier-2 Exam Date",
+        "event": "IBPS Clerk (Mains)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Working",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "RRB NTPC": {
+    "pageTitle": "RRB NTPC 2026 Schedule",
+    "records": [
+      {
+        "event": "IBPS PO (Mains)",
+        "date": "2026-07-19",
+        "iso": [
+          "2026-07-19"
+        ]
+      },
+      {
+        "event": "Results",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "Marksheet",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Feedback",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tracker",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -100,46 +147,46 @@
       }
     ]
   },
-  "IBPS PO": {
-    "pageTitle": "IBPS PO 2026 Schedule",
+  "SSC CGL": {
+    "pageTitle": "SSC 2026 Schedule",
     "records": [
       {
-        "event": "IBPS PO (Prelims)",
+        "event": "Online Application Start",
         "date": "2026-07-20",
         "iso": [
           "2026-07-20"
         ]
       },
       {
-        "event": "IBPS PO (Mains)",
+        "event": "Last Date to Apply",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "IBPS SO (Prelims)",
+        "event": "Last Date for Fee Payment",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "IBPS SO (Mains)",
+        "event": "Application Correction Window",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "IBPS Clerk (Prelims)",
+        "event": "Tier-1 Exam Date",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "IBPS Clerk (Mains)",
+        "event": "Tier-2 Exam Date",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -187,53 +234,6 @@
       },
       {
         "event": "The Best",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Working",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
-  "RRB NTPC": {
-    "pageTitle": "RRB NTPC 2026 Schedule",
-    "records": [
-      {
-        "event": "IBPS PO (Mains)",
-        "date": "2026-07-19",
-        "iso": [
-          "2026-07-19"
-        ]
-      },
-      {
-        "event": "Results",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "Marksheet",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Feedback",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tracker",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
