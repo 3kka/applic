@@ -1,63 +1,4 @@
 {
-  "Trending": {
-    "pageTitle": "Trending",
-    "records": [
-      {
-        "category": "RRB",
-        "news": "RRB Group -D vacancy increased to 3200",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "UPSC",
-        "news": "UPSC vacancy increased to 1600",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "Banking",
-        "news": "Banking IBPS vacancy increased to 5200",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "SSC",
-        "news": "SSC CGL vacancy increased to 4800",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "CBSE",
-        "news": "Results are out",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "ICSE",
-        "news": "New one",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      }
-    ]
-  },
   "UPSC": {
     "pageTitle": "UPSC 2026 Schedule",
     "records": [
@@ -133,46 +74,46 @@
       }
     ]
   },
-  "IBPS PO": {
-    "pageTitle": "IBPS PO 2026 Schedule",
+  "SSC CGL": {
+    "pageTitle": "SSC 2026 Schedule",
     "records": [
       {
-        "event": "IBPS PO (Prelims)",
+        "event": "Online Application Start",
         "date": "2026-07-20",
         "iso": [
           "2026-07-20"
         ]
       },
       {
-        "event": "IBPS PO (Mains)",
+        "event": "Last Date to Apply",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "IBPS SO (Prelims)",
+        "event": "Last Date for Fee Payment",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "IBPS SO (Mains)",
+        "event": "Application Correction Window",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "IBPS Clerk (Prelims)",
+        "event": "Tier-1 Exam Date",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "IBPS Clerk (Mains)",
+        "event": "Tier-2 Exam Date",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -220,46 +161,114 @@
       }
     ]
   },
-  "SSC CGL": {
-    "pageTitle": "SSC 2026 Schedule",
+  "Trending": {
+    "pageTitle": "Trending",
     "records": [
       {
-        "event": "Online Application Start",
+        "category": "RRB",
+        "news": "RRB Group -D vacancy increased to 3200",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "UPSC",
+        "news": "UPSC vacancy increased to 1600",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "Banking",
+        "news": "Banking IBPS vacancy increased to 5200",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "SSC",
+        "news": "SSC CGL vacancy increased to 4800",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "CBSE",
+        "news": "Results are out",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "ICSE",
+        "news": "New one",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "Axis Bank",
+        "news": "This is the latest notification",
+        "date": "2026-06-08",
+        "link": "",
+        "iso": [
+          "2026-06-08"
+        ]
+      }
+    ]
+  },
+  "IBPS PO": {
+    "pageTitle": "IBPS PO 2026 Schedule",
+    "records": [
+      {
+        "event": "IBPS PO (Prelims)",
         "date": "2026-07-20",
         "iso": [
           "2026-07-20"
         ]
       },
       {
-        "event": "Last Date to Apply",
+        "event": "IBPS PO (Mains)",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "Last Date for Fee Payment",
+        "event": "IBPS SO (Prelims)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Application Correction Window",
+        "event": "IBPS SO (Mains)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Tier-1 Exam Date",
+        "event": "IBPS Clerk (Prelims)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Tier-2 Exam Date",
+        "event": "IBPS Clerk (Mains)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
