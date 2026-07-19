@@ -1,44 +1,4 @@
 {
-  "UPSC": {
-    "pageTitle": "UPSC 2026 Schedule",
-    "records": [
-      {
-        "event": "UPSC Prelims Exam Date",
-        "date": "2026-07-19",
-        "iso": [
-          "2026-07-19"
-        ]
-      },
-      {
-        "event": "Prelims Result Declaration",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "DAF-I",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "UPSC Mains Exam",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "The Best",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
   "Trending": {
     "pageTitle": "Trending",
     "records": [
@@ -76,6 +36,55 @@
         "link": "rrbcdg.gov.in",
         "iso": [
           "2026-06-08"
+        ]
+      },
+      {
+        "category": "CBSE",
+        "news": "A new CBSE exam is going to be conducted soon",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      }
+    ]
+  },
+  "UPSC": {
+    "pageTitle": "UPSC 2026 Schedule",
+    "records": [
+      {
+        "event": "UPSC Prelims Exam Date",
+        "date": "2026-07-19",
+        "iso": [
+          "2026-07-19"
+        ]
+      },
+      {
+        "event": "Prelims Result Declaration",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "DAF-I",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "UPSC Mains Exam",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "The Best",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
         ]
       }
     ]
@@ -127,46 +136,6 @@
       }
     ]
   },
-  "IBPS RRB": {
-    "pageTitle": "IBPS RRB 2026 Schedule",
-    "records": [
-      {
-        "event": "RRB Officer Scale I (Prelims)",
-        "date": "2026-07-20",
-        "iso": [
-          "2026-07-20"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale I (Mains)",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Prelims)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Mains)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale II & III",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
   "IBPS PO": {
     "pageTitle": "IBPS PO 2026 Schedule",
     "records": [
@@ -207,6 +176,46 @@
       },
       {
         "event": "IBPS Clerk (Mains)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "IBPS RRB": {
+    "pageTitle": "IBPS RRB 2026 Schedule",
+    "records": [
+      {
+        "event": "RRB Officer Scale I (Prelims)",
+        "date": "2026-07-20",
+        "iso": [
+          "2026-07-20"
+        ]
+      },
+      {
+        "event": "RRB Officer Scale I (Mains)",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "RRB Office Assistants I (Prelims)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "RRB Office Assistants I (Mains)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "RRB Officer Scale II & III",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
