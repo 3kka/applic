@@ -1,211 +1,4 @@
 {
-  "RRB NTPC": {
-    "pageTitle": "RRB NTPC 2026 Schedule",
-    "records": [
-      {
-        "event": "IBPS PO (Mains)",
-        "date": "2026-07-19",
-        "iso": [
-          "2026-07-19"
-        ]
-      },
-      {
-        "event": "Results",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "Marksheet",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Feedback",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tracker",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Working",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
-  "UPSC": {
-    "pageTitle": "UPSC 2026 Schedule New",
-    "records": [
-      {
-        "event": "UPSC Prelims Exam Date",
-        "date": "2026-07-19",
-        "iso": [
-          "2026-07-19"
-        ]
-      },
-      {
-        "event": "Prelims Result Declaration",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "DAF-I",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "UPSC Mains Exam",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "The Best",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Working",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
-  "Trending": {
-    "pageTitle": "Trending",
-    "records": [
-      {
-        "category": "RRB",
-        "news": "RRB Group -D vacancy increased to 3200",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "UPSC",
-        "news": "UPSC vacancy increased to 1600",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "Banking",
-        "news": "Banking IBPS vacancy increased to 5200",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "SSC",
-        "news": "SSC CGL vacancy increased to 4800",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "CBSE",
-        "news": "Results are out",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "ICSE",
-        "news": "New one",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      }
-    ]
-  },
-  "SSC CGL": {
-    "pageTitle": "SSC 2026 Schedule",
-    "records": [
-      {
-        "event": "Online Application Start",
-        "date": "2026-07-20",
-        "iso": [
-          "2026-07-20"
-        ]
-      },
-      {
-        "event": "Last Date to Apply",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "Last Date for Fee Payment",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Application Correction Window",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tier-1 Exam Date",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tier-2 Exam Date",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Working",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
   "IBPS PO": {
     "pageTitle": "IBPS PO 2026 Schedule",
     "records": [
@@ -293,6 +86,206 @@
       },
       {
         "event": "RRB Officer Scale II & III",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Working",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "Trending": {
+    "pageTitle": "Trending",
+    "records": [
+      {
+        "category": "RRB",
+        "news": "RRB Group -D vacancy increased to 3200",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "UPSC",
+        "news": "UPSC vacancy increased to 1600",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "Banking",
+        "news": "Banking IBPS vacancy increased to 5200",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "SSC",
+        "news": "SSC CGL vacancy increased to 4800",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "CBSE",
+        "news": "Results are out",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "ICSE",
+        "news": "New one",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      }
+    ]
+  },
+  "RRB NTPC": {
+    "pageTitle": "RRB NTPC 2026 Schedule",
+    "records": [
+      {
+        "event": "IBPS PO (Mains)",
+        "date": "2026-07-19",
+        "iso": [
+          "2026-07-19"
+        ]
+      },
+      {
+        "event": "Results",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "Marksheet",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Feedback",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tracker",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Working",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "UPSC": {
+    "pageTitle": "UPSC 2026 Schedule New",
+    "records": [
+      {
+        "event": "UPSC Prelims Exam Date",
+        "date": "2026-07-19",
+        "iso": [
+          "2026-07-19"
+        ]
+      },
+      {
+        "event": "Prelims Result Declaration",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "DAF-I",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "UPSC Mains Exam",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "The Best",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "SSC CGL": {
+    "pageTitle": "SSC 2026 Schedule",
+    "records": [
+      {
+        "event": "Online Application Start",
+        "date": "2026-07-20",
+        "iso": [
+          "2026-07-20"
+        ]
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "Last Date for Fee Payment",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Application Correction Window",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tier-1 Exam Date",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tier-2 Exam Date",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
