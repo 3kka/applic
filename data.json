@@ -100,39 +100,39 @@
       }
     ]
   },
-  "IBPS RRB": {
-    "pageTitle": "IBPS RRB 2026 Schedule hehe",
+  "UPSC": {
+    "pageTitle": "UPSC 2026 Schedule New",
     "records": [
       {
-        "event": "RRB Officer Scale I (Prelims)",
-        "date": "2026-07-20",
+        "event": "UPSC Prelims Exam Date",
+        "date": "2026-07-19",
         "iso": [
-          "2026-07-20"
+          "2026-07-19"
         ]
       },
       {
-        "event": "RRB Officer Scale I (Mains)",
+        "event": "Prelims Result Declaration",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "RRB Office Assistants I (Prelims)",
+        "event": "DAF-I",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "RRB Office Assistants I (Mains)",
+        "event": "UPSC Mains Exam",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "RRB Officer Scale II & III",
+        "event": "The Best",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -201,39 +201,39 @@
       }
     ]
   },
-  "UPSC": {
-    "pageTitle": "UPSC 2026 Schedule New",
+  "IBPS RRB": {
+    "pageTitle": "IBPS RRB 2026 Schedule hehe",
     "records": [
       {
-        "event": "UPSC Prelims Exam Date",
-        "date": "2026-07-19",
+        "event": "RRB Officer Scale I (Prelims)",
+        "date": "2026-07-20",
         "iso": [
-          "2026-07-19"
+          "2026-07-20"
         ]
       },
       {
-        "event": "Prelims Result Declaration",
+        "event": "RRB Officer Scale I (Mains)",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "DAF-I",
+        "event": "RRB Office Assistants I (Prelims)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "UPSC Mains Exam",
+        "event": "RRB Office Assistants I (Mains)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "The Best",
+        "event": "RRB Officer Scale II & III",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
