@@ -1,44 +1,4 @@
 {
-  "IBPS RRB": {
-    "pageTitle": "IBPS RRB 2026 Schedule",
-    "records": [
-      {
-        "event": "RRB Officer Scale I (Prelims)",
-        "date": "2026-07-21",
-        "iso": [
-          "2026-07-21"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale I (Mains)",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Prelims)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Mains)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale II & III",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
   "RRB NTPC": {
     "pageTitle": "RRB NTPC 2026 Schedule",
     "records": [
@@ -72,6 +32,53 @@
       },
       {
         "event": "Tracker",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "IBPS PO": {
+    "pageTitle": "IBPS PO 2026 Schedule",
+    "records": [
+      {
+        "event": "IBPS PO (Prelims)",
+        "date": "2026-07-21",
+        "iso": [
+          "2026-07-21"
+        ]
+      },
+      {
+        "event": "IBPS PO (Mains)",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "IBPS SO (Prelims)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "IBPS SO (Mains)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "IBPS Clerk (Prelims)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "IBPS Clerk (Mains)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -119,6 +126,86 @@
       },
       {
         "event": "Tier-2 Exam Date",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "UPSC": {
+    "pageTitle": "UPSC 2026 Schedule",
+    "records": [
+      {
+        "event": "UPSC Prelims Exam Date",
+        "date": "2026-07-21",
+        "iso": [
+          "2026-07-21"
+        ]
+      },
+      {
+        "event": "Prelims Result Declaration",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "DAF-I",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "UPSC Mains Exam",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "The Best",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "IBPS RRB": {
+    "pageTitle": "IBPS RRB 2026 Schedule",
+    "records": [
+      {
+        "event": "RRB Officer Scale I (Prelims)",
+        "date": "2026-07-21",
+        "iso": [
+          "2026-07-21"
+        ]
+      },
+      {
+        "event": "RRB Officer Scale I (Mains)",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "RRB Office Assistants I (Prelims)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "RRB Office Assistants I (Mains)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "RRB Officer Scale II & III",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -191,92 +278,14 @@
         "iso": [
           "2026-06-08"
         ]
-      }
-    ]
-  },
-  "IBPS PO": {
-    "pageTitle": "IBPS PO 2026 Schedule",
-    "records": [
-      {
-        "event": "IBPS PO (Prelims)",
-        "date": "2026-07-21",
-        "iso": [
-          "2026-07-21"
-        ]
       },
       {
-        "event": "IBPS PO (Mains)",
-        "date": "2026-10-15",
+        "category": "new exam",
+        "news": "New exam dated 21 jul 2026",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
         "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "IBPS SO (Prelims)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "IBPS SO (Mains)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "IBPS Clerk (Prelims)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "IBPS Clerk (Mains)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
-  "UPSC": {
-    "pageTitle": "UPSC 2026 Schedule",
-    "records": [
-      {
-        "event": "UPSC Prelims Exam Date",
-        "date": "2026-07-21",
-        "iso": [
-          "2026-07-21"
-        ]
-      },
-      {
-        "event": "Prelims Result Declaration",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "DAF-I",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "UPSC Mains Exam",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "The Best",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
+          "2026-06-08"
         ]
       }
     ]
