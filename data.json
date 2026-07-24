@@ -1,77 +1,120 @@
 {
-  "Trending": {
-    "pageTitle": "Trending",
+  "RRB NTPC": {
+    "pageTitle": "RRB NTPC 2026 Schedule",
     "records": [
       {
-        "category": "RRB",
-        "news": "RRB Group -D vacancy increased to 3200",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
+        "event": "IBPS PO (Mains)",
+        "date": "2026-07-25",
         "iso": [
-          "2026-06-08"
+          "2026-07-25"
         ]
       },
       {
-        "category": "UPSC",
-        "news": "UPSC vacancy increased to 1600",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
+        "event": "Results",
+        "date": "2026-10-15",
         "iso": [
-          "2026-06-08"
+          "2026-10-15"
         ]
       },
       {
-        "category": "Banking",
-        "news": "Banking IBPS vacancy increased to 5200",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
+        "event": "Marksheet",
+        "date": "2026-10-16",
         "iso": [
-          "2026-06-08"
+          "2026-10-16"
         ]
       },
       {
-        "category": "SSC",
-        "news": "SSC CGL vacancy increased to 4800",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
+        "event": "Feedback",
+        "date": "2026-10-16",
         "iso": [
-          "2026-06-08"
+          "2026-10-16"
         ]
       },
       {
-        "category": "CBSE",
-        "news": "A new CBSE exam is going to be conducted soon",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
+        "event": "Tracker",
+        "date": "2026-10-16",
         "iso": [
-          "2026-06-08"
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "UPSC": {
+    "pageTitle": "UPSC 2026 Schedule",
+    "records": [
+      {
+        "event": "UPSC Prelims Exam Date",
+        "date": "2026-07-25",
+        "iso": [
+          "2026-07-25"
         ]
       },
       {
-        "category": "ICSE",
-        "news": "A new ICSE exam soon",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
+        "event": "Prelims Result Declaration",
+        "date": "2026-10-15",
         "iso": [
-          "2026-06-08"
+          "2026-10-15"
         ]
       },
       {
-        "category": "JSSC",
-        "news": "New JSSC exam in August",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
+        "event": "DAF-I",
+        "date": "2026-10-16",
         "iso": [
-          "2026-06-08"
+          "2026-10-16"
         ]
       },
       {
-        "category": "new exam",
-        "news": "New exam dated 21 jul 2026",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
+        "event": "UPSC Mains Exam",
+        "date": "2026-10-16",
         "iso": [
-          "2026-06-08"
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "The Best",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "IBPS RRB": {
+    "pageTitle": "IBPS RRB 2026 Schedule",
+    "records": [
+      {
+        "event": "RRB Officer Scale I (Prelims)",
+        "date": "2026-07-25",
+        "iso": [
+          "2026-07-25"
+        ]
+      },
+      {
+        "event": "RRB Officer Scale I (Mains)",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "RRB Office Assistants I (Prelims)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "RRB Office Assistants I (Mains)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "RRB Officer Scale II & III",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
         ]
       }
     ]
@@ -123,122 +166,43 @@
       }
     ]
   },
-  "RRB NTPC": {
-    "pageTitle": "RRB NTPC 2026 Schedule",
+  "Trending": {
+    "pageTitle": "Trending",
     "records": [
       {
-        "event": "IBPS PO (Mains)",
-        "date": "2026-07-25",
+        "category": "RRB",
+        "news": "RRB Group -D vacancy increased to 3200",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
         "iso": [
-          "2026-07-25"
+          "2026-06-08"
         ]
       },
       {
-        "event": "Results",
-        "date": "2026-10-15",
+        "category": "UPSC",
+        "news": "UPSC vacancy increased to 1600",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
         "iso": [
-          "2026-10-15"
+          "2026-06-08"
         ]
       },
       {
-        "event": "Marksheet",
-        "date": "2026-10-16",
+        "category": "Banking",
+        "news": "Banking IBPS vacancy increased to 5200",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
         "iso": [
-          "2026-10-16"
+          "2026-06-08"
         ]
       },
       {
-        "event": "Feedback",
-        "date": "2026-10-16",
+        "category": "SSC",
+        "news": "SSC CGL vacancy increased to 4800",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
         "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tracker",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
-  "IBPS RRB": {
-    "pageTitle": "IBPS RRB 2026 Schedule",
-    "records": [
-      {
-        "event": "RRB Officer Scale I (Prelims)",
-        "date": "2026-07-25",
-        "iso": [
-          "2026-07-25"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale I (Mains)",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Prelims)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Mains)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale II & III",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
-  "UPSC": {
-    "pageTitle": "UPSC 2026 Schedule",
-    "records": [
-      {
-        "event": "UPSC Prelims Exam Date",
-        "date": "2026-07-25",
-        "iso": [
-          "2026-07-25"
-        ]
-      },
-      {
-        "event": "Prelims Result Declaration",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "DAF-I",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "UPSC Mains Exam",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "The Best",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
+          "2026-06-08"
         ]
       }
     ]
