@@ -1,174 +1,37 @@
 {
-  "IBPS PO": {
-    "pageTitle": "IBPS PO 2026 Schedule",
+  "IBPS RRB": {
+    "pageTitle": "IBPS RRB 2026 Schedule",
     "records": [
       {
-        "event": "IBPS PO (Prelims)",
+        "event": "RRB Officer Scale I (Prelims)",
         "date": "2026-07-26",
         "iso": [
           "2026-07-26"
         ]
       },
       {
-        "event": "IBPS PO (Mains)",
+        "event": "RRB Officer Scale I (Mains)",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "IBPS SO (Prelims)",
+        "event": "RRB Office Assistants I (Prelims)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "IBPS SO (Mains)",
+        "event": "RRB Office Assistants I (Mains)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "IBPS Clerk (Prelims)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "IBPS Clerk (Mains)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
-  "Trending": {
-    "pageTitle": "Trending",
-    "records": [
-      {
-        "category": "RRB",
-        "news": "RRB Group -D vacancy increased to 3200",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "UPSC",
-        "news": "UPSC vacancy increased to 1600",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "Banking",
-        "news": "Banking IBPS vacancy increased to 5200",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "SSC",
-        "news": "SSC CGL vacancy increased to 4800",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "Railway",
-        "news": "New railway exam coming soon",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      }
-    ]
-  },
-  "UPSC": {
-    "pageTitle": "UPSC 2026 Schedule",
-    "records": [
-      {
-        "event": "UPSC Prelims Exam Date",
-        "date": "2026-07-26",
-        "iso": [
-          "2026-07-26"
-        ]
-      },
-      {
-        "event": "Prelims Result Declaration",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "DAF-I",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "UPSC Mains Exam",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "The Best",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
-  "RRB NTPC": {
-    "pageTitle": "RRB NTPC 2026 Schedule",
-    "records": [
-      {
-        "event": "IBPS PO (Mains)",
-        "date": "2026-07-26",
-        "iso": [
-          "2026-07-26"
-        ]
-      },
-      {
-        "event": "Results",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "Marksheet",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Feedback",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tracker",
+        "event": "RRB Officer Scale II & III",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -223,42 +86,188 @@
       }
     ]
   },
-  "IBPS RRB": {
-    "pageTitle": "IBPS RRB 2026 Schedule",
+  "UPSC": {
+    "pageTitle": "UPSC 2026 Schedule",
     "records": [
       {
-        "event": "RRB Officer Scale I (Prelims)",
+        "event": "UPSC Prelims Exam Date",
         "date": "2026-07-26",
         "iso": [
           "2026-07-26"
         ]
       },
       {
-        "event": "RRB Officer Scale I (Mains)",
+        "event": "Prelims Result Declaration",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "RRB Office Assistants I (Prelims)",
+        "event": "DAF-I",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "RRB Office Assistants I (Mains)",
+        "event": "UPSC Mains Exam",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "RRB Officer Scale II & III",
+        "event": "The Best",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "IBPS PO": {
+    "pageTitle": "IBPS PO 2026 Schedule",
+    "records": [
+      {
+        "event": "IBPS PO (Prelims)",
+        "date": "2026-07-26",
+        "iso": [
+          "2026-07-26"
+        ]
+      },
+      {
+        "event": "IBPS PO (Mains)",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "IBPS SO (Prelims)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "IBPS SO (Mains)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "IBPS Clerk (Prelims)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "IBPS Clerk (Mains)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "RRB NTPC": {
+    "pageTitle": "RRB NTPC 2026 Schedule",
+    "records": [
+      {
+        "event": "IBPS PO (Mains)",
+        "date": "2026-07-26",
+        "iso": [
+          "2026-07-26"
+        ]
+      },
+      {
+        "event": "Results",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "Marksheet",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Feedback",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tracker",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "Trending": {
+    "pageTitle": "Trending",
+    "records": [
+      {
+        "category": "RRB",
+        "news": "RRB Group -D vacancy increased to 3200",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "UPSC",
+        "news": "UPSC vacancy increased to 1600",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "Banking",
+        "news": "Banking IBPS vacancy increased to 5200",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "SSC",
+        "news": "SSC CGL vacancy increased to 4800",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "Railway",
+        "news": "New railway exam coming soon",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "New exam",
+        "news": "Newest exam",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
         ]
       }
     ]
