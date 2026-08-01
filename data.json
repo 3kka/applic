@@ -1,4 +1,91 @@
 {
+  "SSC CGL": {
+    "pageTitle": "SSC 2026 Schedule",
+    "records": [
+      {
+        "event": "Online Application Start",
+        "date": "2026-08-02",
+        "iso": [
+          "2026-08-02"
+        ]
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "Last Date for Fee Payment",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Application Correction Window",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tier-1 Exam Date",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tier-2 Exam Date",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "RRB NTPC": {
+    "pageTitle": "RRB NTPC 2026 Schedule",
+    "records": [
+      {
+        "event": "IBPS PO (Mains)",
+        "date": "2026-08-02",
+        "iso": [
+          "2026-08-02"
+        ]
+      },
+      {
+        "event": "Results",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "Marksheet",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Feedback",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tracker",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
   "IBPS PO": {
     "pageTitle": "IBPS PO 2026 Schedule",
     "records": [
@@ -132,102 +219,6 @@
         "link": "rrbcdg.gov.in",
         "iso": [
           "2026-06-08"
-        ]
-      },
-      {
-        "category": "CTET",
-        "news": "New CTET exam coming very soon",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      }
-    ]
-  },
-  "RRB NTPC": {
-    "pageTitle": "RRB NTPC 2026 Schedule",
-    "records": [
-      {
-        "event": "IBPS PO (Mains)",
-        "date": "2026-08-02",
-        "iso": [
-          "2026-08-02"
-        ]
-      },
-      {
-        "event": "Results",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "Marksheet",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Feedback",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tracker",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
-  "SSC CGL": {
-    "pageTitle": "SSC 2026 Schedule",
-    "records": [
-      {
-        "event": "Online Application Start",
-        "date": "2026-08-02",
-        "iso": [
-          "2026-08-02"
-        ]
-      },
-      {
-        "event": "Last Date to Apply",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "Last Date for Fee Payment",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Application Correction Window",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tier-1 Exam Date",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tier-2 Exam Date",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
         ]
       }
     ]
