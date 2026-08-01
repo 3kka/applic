@@ -46,39 +46,39 @@
       }
     ]
   },
-  "RRB NTPC": {
-    "pageTitle": "RRB NTPC 2026 Schedule",
+  "UPSC": {
+    "pageTitle": "UPSC 2026 Schedule",
     "records": [
       {
-        "event": "IBPS PO (Mains)",
+        "event": "UPSC Prelims Exam Date",
         "date": "2026-08-02",
         "iso": [
           "2026-08-02"
         ]
       },
       {
-        "event": "Results",
+        "event": "Prelims Result Declaration",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "Marksheet",
+        "event": "DAF-I",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Feedback",
+        "event": "UPSC Mains Exam",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Tracker",
+        "event": "The Best",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -133,39 +133,79 @@
       }
     ]
   },
-  "UPSC": {
-    "pageTitle": "UPSC 2026 Schedule",
+  "IBPS RRB": {
+    "pageTitle": "IBPS RRB 2026 Schedule",
     "records": [
       {
-        "event": "UPSC Prelims Exam Date",
+        "event": "RRB Officer Scale I (Prelims)",
         "date": "2026-08-02",
         "iso": [
           "2026-08-02"
         ]
       },
       {
-        "event": "Prelims Result Declaration",
+        "event": "RRB Officer Scale I (Mains)",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "DAF-I",
+        "event": "RRB Office Assistants I (Prelims)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "UPSC Mains Exam",
+        "event": "RRB Office Assistants I (Mains)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "The Best",
+        "event": "RRB Officer Scale II & III",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "RRB NTPC": {
+    "pageTitle": "RRB NTPC 2026 Schedule",
+    "records": [
+      {
+        "event": "IBPS PO (Mains)",
+        "date": "2026-08-02",
+        "iso": [
+          "2026-08-02"
+        ]
+      },
+      {
+        "event": "Results",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "Marksheet",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Feedback",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tracker",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -216,49 +256,9 @@
         "category": "CLAT",
         "news": "New CLAT exam in December",
         "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
+        "link": "",
         "iso": [
           "2026-06-08"
-        ]
-      }
-    ]
-  },
-  "IBPS RRB": {
-    "pageTitle": "IBPS RRB 2026 Schedule",
-    "records": [
-      {
-        "event": "RRB Officer Scale I (Prelims)",
-        "date": "2026-08-02",
-        "iso": [
-          "2026-08-02"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale I (Mains)",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Prelims)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Mains)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale II & III",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
         ]
       }
     ]
