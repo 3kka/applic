@@ -1,37 +1,84 @@
 {
-  "RRB NTPC": {
-    "pageTitle": "RRB NTPC 2026 Schedule",
+  "UPSC": {
+    "pageTitle": "UPSC 2026 Schedule",
     "records": [
       {
-        "event": "IBPS PO (Mains)",
-        "date": "2026-08-07",
+        "event": "UPSC Prelims Exam Date",
+        "date": "2026-08-08",
         "iso": [
-          "2026-08-07"
+          "2026-08-08"
         ]
       },
       {
-        "event": "Results",
+        "event": "Prelims Result Declaration",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "Marksheet",
+        "event": "DAF-I",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Feedback",
+        "event": "UPSC Mains Exam",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Tracker",
+        "event": "The Best",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "IBPS PO": {
+    "pageTitle": "IBPS PO 2026 Schedule",
+    "records": [
+      {
+        "event": "IBPS PO (Prelims)",
+        "date": "2026-08-08",
+        "iso": [
+          "2026-08-08"
+        ]
+      },
+      {
+        "event": "IBPS PO (Mains)",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "IBPS SO (Prelims)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "IBPS SO (Mains)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "IBPS Clerk (Prelims)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "IBPS Clerk (Mains)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -86,45 +133,14 @@
         "iso": [
           "2026-06-08"
         ]
-      }
-    ]
-  },
-  "UPSC": {
-    "pageTitle": "UPSC 2026 Schedule",
-    "records": [
-      {
-        "event": "UPSC Prelims Exam Date",
-        "date": "2026-08-07",
-        "iso": [
-          "2026-08-07"
-        ]
       },
       {
-        "event": "Prelims Result Declaration",
-        "date": "2026-10-15",
+        "category": "XLRI",
+        "news": "New XLRI Exam soon",
+        "date": "2026-06-08",
+        "link": "clat.in",
         "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "DAF-I",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "UPSC Mains Exam",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "The Best",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
+          "2026-06-08"
         ]
       }
     ]
@@ -134,9 +150,9 @@
     "records": [
       {
         "event": "RRB Officer Scale I (Prelims)",
-        "date": "2026-08-06",
+        "date": "2026-08-08",
         "iso": [
-          "2026-08-06"
+          "2026-08-08"
         ]
       },
       {
@@ -174,9 +190,9 @@
     "records": [
       {
         "event": "Online Application Start",
-        "date": "2026-08-07",
+        "date": "2026-08-08",
         "iso": [
-          "2026-08-07"
+          "2026-08-08"
         ]
       },
       {
@@ -216,46 +232,39 @@
       }
     ]
   },
-  "IBPS PO": {
-    "pageTitle": "IBPS PO 2026 Schedule",
+  "RRB NTPC": {
+    "pageTitle": "RRB NTPC 2026 Schedule",
     "records": [
       {
-        "event": "IBPS PO (Prelims)",
-        "date": "2026-08-06",
+        "event": "IBPS PO (Mains)",
+        "date": "2026-08-08",
         "iso": [
-          "2026-08-06"
+          "2026-08-08"
         ]
       },
       {
-        "event": "IBPS PO (Mains)",
+        "event": "Results",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "IBPS SO (Prelims)",
+        "event": "Marksheet",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "IBPS SO (Mains)",
+        "event": "Feedback",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "IBPS Clerk (Prelims)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "IBPS Clerk (Mains)",
+        "event": "Tracker",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
