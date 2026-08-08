@@ -1,37 +1,96 @@
 {
-  "UPSC": {
-    "pageTitle": "UPSC 2026 Schedule",
+  "Trending": {
+    "pageTitle": "Trending",
     "records": [
       {
-        "event": "UPSC Prelims Exam Date",
+        "category": "RRB",
+        "news": "RRB Group -D vacancy increased to 3200",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "UPSC",
+        "news": "UPSC vacancy increased to 1600",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "Banking",
+        "news": "Banking IBPS vacancy increased to 5200",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "SSC",
+        "news": "SSC CGL vacancy increased to 4800",
+        "date": "2026-06-08",
+        "link": "rrbcdg.gov.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "CLAT",
+        "news": "New CLAT exam in December",
+        "date": "2026-06-08",
+        "link": "clat.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      },
+      {
+        "category": "XISS",
+        "news": "New XISS Exam soon",
+        "date": "2026-06-08",
+        "link": "clat.in",
+        "iso": [
+          "2026-06-08"
+        ]
+      }
+    ]
+  },
+  "IBPS RRB": {
+    "pageTitle": "IBPS RRB 2026 Schedule",
+    "records": [
+      {
+        "event": "RRB Officer Scale I (Prelims)",
         "date": "2026-08-08",
         "iso": [
           "2026-08-08"
         ]
       },
       {
-        "event": "Prelims Result Declaration",
+        "event": "RRB Officer Scale I (Mains)",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "DAF-I",
+        "event": "RRB Office Assistants I (Prelims)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "UPSC Mains Exam",
+        "event": "RRB Office Assistants I (Mains)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "The Best",
+        "event": "RRB Officer Scale II & III",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -86,105 +145,6 @@
       }
     ]
   },
-  "Trending": {
-    "pageTitle": "Trending",
-    "records": [
-      {
-        "category": "RRB",
-        "news": "RRB Group -D vacancy increased to 3200",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "UPSC",
-        "news": "UPSC vacancy increased to 1600",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "Banking",
-        "news": "Banking IBPS vacancy increased to 5200",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "SSC",
-        "news": "SSC CGL vacancy increased to 4800",
-        "date": "2026-06-08",
-        "link": "rrbcdg.gov.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "CLAT",
-        "news": "New CLAT exam in December",
-        "date": "2026-06-08",
-        "link": "clat.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      },
-      {
-        "category": "XLRI",
-        "news": "New XLRI Exam soon",
-        "date": "2026-06-08",
-        "link": "clat.in",
-        "iso": [
-          "2026-06-08"
-        ]
-      }
-    ]
-  },
-  "IBPS RRB": {
-    "pageTitle": "IBPS RRB 2026 Schedule",
-    "records": [
-      {
-        "event": "RRB Officer Scale I (Prelims)",
-        "date": "2026-08-08",
-        "iso": [
-          "2026-08-08"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale I (Mains)",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Prelims)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Mains)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale II & III",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
   "SSC CGL": {
     "pageTitle": "SSC 2026 Schedule",
     "records": [
@@ -225,6 +185,46 @@
       },
       {
         "event": "Tier-2 Exam Date",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "UPSC": {
+    "pageTitle": "UPSC 2026 Schedule",
+    "records": [
+      {
+        "event": "UPSC Prelims Exam Date",
+        "date": "2026-08-08",
+        "iso": [
+          "2026-08-08"
+        ]
+      },
+      {
+        "event": "Prelims Result Declaration",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "DAF-I",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "UPSC Mains Exam",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "The Best",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
