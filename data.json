@@ -1,84 +1,4 @@
 {
-  "IBPS RRB": {
-    "pageTitle": "IBPS RRB 2026 Schedule",
-    "records": [
-      {
-        "event": "RRB Officer Scale I (Prelims)",
-        "date": "2026-08-09",
-        "iso": [
-          "2026-08-09"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale I (Mains)",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Prelims)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Mains)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale II & III",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
-  "UPSC": {
-    "pageTitle": "UPSC 2026 Schedule",
-    "records": [
-      {
-        "event": "UPSC Prelims Exam Date",
-        "date": "2026-08-09",
-        "iso": [
-          "2026-08-09"
-        ]
-      },
-      {
-        "event": "Prelims Result Declaration",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "DAF-I",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "UPSC Mains Exam",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "The Best",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
   "Trending": {
     "pageTitle": "Trending",
     "records": [
@@ -138,46 +58,79 @@
       }
     ]
   },
-  "SSC CGL": {
-    "pageTitle": "SSC 2026 Schedule",
+  "RRB NTPC": {
+    "pageTitle": "RRB NTPC 2026 Schedule",
     "records": [
       {
-        "event": "Online Application Start",
+        "event": "IBPS PO (Mains)",
         "date": "2026-08-09",
         "iso": [
           "2026-08-09"
         ]
       },
       {
-        "event": "Last Date to Apply",
+        "event": "Results",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "Last Date for Fee Payment",
+        "event": "Marksheet",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Application Correction Window",
+        "event": "Feedback",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Tier-1 Exam Date",
+        "event": "Tracker",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "IBPS RRB": {
+    "pageTitle": "IBPS RRB 2026 Schedule",
+    "records": [
+      {
+        "event": "RRB Officer Scale I (Prelims)",
+        "date": "2026-08-09",
+        "iso": [
+          "2026-08-09"
+        ]
+      },
+      {
+        "event": "RRB Officer Scale I (Mains)",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "RRB Office Assistants I (Prelims)",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Tier-2 Exam Date",
+        "event": "RRB Office Assistants I (Mains)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "RRB Officer Scale II & III",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -232,39 +185,86 @@
       }
     ]
   },
-  "RRB NTPC": {
-    "pageTitle": "RRB NTPC 2026 Schedule",
+  "SSC CGL": {
+    "pageTitle": "SSC 2026 Schedule",
     "records": [
       {
-        "event": "IBPS PO (Mains)",
+        "event": "Online Application Start",
         "date": "2026-08-09",
         "iso": [
           "2026-08-09"
         ]
       },
       {
-        "event": "Results",
+        "event": "Last Date to Apply",
         "date": "2026-10-15",
         "iso": [
           "2026-10-15"
         ]
       },
       {
-        "event": "Marksheet",
+        "event": "Last Date for Fee Payment",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Feedback",
+        "event": "Application Correction Window",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
         ]
       },
       {
-        "event": "Tracker",
+        "event": "Tier-1 Exam Date",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tier-2 Exam Date",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "UPSC": {
+    "pageTitle": "UPSC 2026 Schedule",
+    "records": [
+      {
+        "event": "UPSC Prelims Exam Date",
+        "date": "2026-08-10",
+        "iso": [
+          "2026-08-10"
+        ]
+      },
+      {
+        "event": "Prelims Result Declaration",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "DAF-I",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "UPSC Mains Exam",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "The Best",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
