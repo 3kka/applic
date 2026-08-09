@@ -1,4 +1,51 @@
 {
+  "IBPS PO": {
+    "pageTitle": "IBPS PO 2026 Schedule",
+    "records": [
+      {
+        "event": "IBPS PO (Prelims)",
+        "date": "2026-08-10",
+        "iso": [
+          "2026-08-10"
+        ]
+      },
+      {
+        "event": "IBPS PO (Mains)",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "IBPS SO (Prelims)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "IBPS SO (Mains)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "IBPS Clerk (Prelims)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "IBPS Clerk (Mains)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
   "Trending": {
     "pageTitle": "Trending",
     "records": [
@@ -58,54 +105,14 @@
       }
     ]
   },
-  "RRB NTPC": {
-    "pageTitle": "RRB NTPC 2026 Schedule",
-    "records": [
-      {
-        "event": "IBPS PO (Mains)",
-        "date": "2026-08-09",
-        "iso": [
-          "2026-08-09"
-        ]
-      },
-      {
-        "event": "Results",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "Marksheet",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Feedback",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tracker",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
   "IBPS RRB": {
     "pageTitle": "IBPS RRB 2026 Schedule",
     "records": [
       {
         "event": "RRB Officer Scale I (Prelims)",
-        "date": "2026-08-09",
+        "date": "2026-08-10",
         "iso": [
-          "2026-08-09"
+          "2026-08-10"
         ]
       },
       {
@@ -131,100 +138,6 @@
       },
       {
         "event": "RRB Officer Scale II & III",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
-  "IBPS PO": {
-    "pageTitle": "IBPS PO 2026 Schedule",
-    "records": [
-      {
-        "event": "IBPS PO (Prelims)",
-        "date": "2026-08-09",
-        "iso": [
-          "2026-08-09"
-        ]
-      },
-      {
-        "event": "IBPS PO (Mains)",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "IBPS SO (Prelims)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "IBPS SO (Mains)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "IBPS Clerk (Prelims)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "IBPS Clerk (Mains)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
-  "SSC CGL": {
-    "pageTitle": "SSC 2026 Schedule",
-    "records": [
-      {
-        "event": "Online Application Start",
-        "date": "2026-08-09",
-        "iso": [
-          "2026-08-09"
-        ]
-      },
-      {
-        "event": "Last Date to Apply",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "Last Date for Fee Payment",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Application Correction Window",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tier-1 Exam Date",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "Tier-2 Exam Date",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
@@ -265,6 +178,93 @@
       },
       {
         "event": "The Best",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "SSC CGL": {
+    "pageTitle": "SSC 2026 Schedule",
+    "records": [
+      {
+        "event": "Online Application Start",
+        "date": "2026-08-10",
+        "iso": [
+          "2026-08-10"
+        ]
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "Last Date for Fee Payment",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Application Correction Window",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tier-1 Exam Date",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tier-2 Exam Date",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "RRB NTPC": {
+    "pageTitle": "RRB NTPC 2026 Schedule",
+    "records": [
+      {
+        "event": "IBPS PO (Mains)",
+        "date": "2026-08-10",
+        "iso": [
+          "2026-08-10"
+        ]
+      },
+      {
+        "event": "Results",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "Marksheet",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Feedback",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "Tracker",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
