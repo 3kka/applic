@@ -4,9 +4,9 @@
     "records": [
       {
         "event": "IBPS PO (Prelims)",
-        "date": "2026-08-10",
+        "date": "2026-08-11",
         "iso": [
-          "2026-08-10"
+          "2026-08-11"
         ]
       },
       {
@@ -110,9 +110,9 @@
     "records": [
       {
         "event": "RRB Officer Scale I (Prelims)",
-        "date": "2026-08-10",
+        "date": "2026-08-11",
         "iso": [
-          "2026-08-10"
+          "2026-08-11"
         ]
       },
       {
@@ -145,54 +145,14 @@
       }
     ]
   },
-  "UPSC": {
-    "pageTitle": "UPSC 2026 Schedule",
-    "records": [
-      {
-        "event": "UPSC Prelims Exam Date",
-        "date": "2026-08-10",
-        "iso": [
-          "2026-08-10"
-        ]
-      },
-      {
-        "event": "Prelims Result Declaration",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "DAF-I",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "UPSC Mains Exam",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "The Best",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
   "SSC CGL": {
     "pageTitle": "SSC 2026 Schedule",
     "records": [
       {
         "event": "Online Application Start",
-        "date": "2026-08-10",
+        "date": "2026-08-11",
         "iso": [
-          "2026-08-10"
+          "2026-08-11"
         ]
       },
       {
@@ -237,9 +197,9 @@
     "records": [
       {
         "event": "IBPS PO (Mains)",
-        "date": "2026-08-10",
+        "date": "2026-08-11",
         "iso": [
-          "2026-08-10"
+          "2026-08-11"
         ]
       },
       {
@@ -265,6 +225,46 @@
       },
       {
         "event": "Tracker",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "UPSC": {
+    "pageTitle": "UPSC 2026 Schedule",
+    "records": [
+      {
+        "event": "UPSC Prelims Exam Date",
+        "date": "2026-08-11",
+        "iso": [
+          "2026-08-11"
+        ]
+      },
+      {
+        "event": "Prelims Result Declaration",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "DAF-I",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "UPSC Mains Exam",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "The Best",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
