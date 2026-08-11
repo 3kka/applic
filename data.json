@@ -4,9 +4,9 @@
     "records": [
       {
         "event": "IBPS PO (Prelims)",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "iso": [
-          "2026-08-11"
+          "2026-08-12"
         ]
       },
       {
@@ -105,54 +105,14 @@
       }
     ]
   },
-  "IBPS RRB": {
-    "pageTitle": "IBPS RRB 2026 Schedule",
-    "records": [
-      {
-        "event": "RRB Officer Scale I (Prelims)",
-        "date": "2026-08-11",
-        "iso": [
-          "2026-08-11"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale I (Mains)",
-        "date": "2026-10-15",
-        "iso": [
-          "2026-10-15"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Prelims)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Office Assistants I (Mains)",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      },
-      {
-        "event": "RRB Officer Scale II & III",
-        "date": "2026-10-16",
-        "iso": [
-          "2026-10-16"
-        ]
-      }
-    ]
-  },
   "SSC CGL": {
     "pageTitle": "SSC 2026 Schedule",
     "records": [
       {
         "event": "Online Application Start",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "iso": [
-          "2026-08-11"
+          "2026-08-12"
         ]
       },
       {
@@ -197,9 +157,9 @@
     "records": [
       {
         "event": "IBPS PO (Mains)",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "iso": [
-          "2026-08-11"
+          "2026-08-12"
         ]
       },
       {
@@ -237,9 +197,9 @@
     "records": [
       {
         "event": "UPSC Prelims Exam Date",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "iso": [
-          "2026-08-11"
+          "2026-08-12"
         ]
       },
       {
@@ -265,6 +225,46 @@
       },
       {
         "event": "The Best",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      }
+    ]
+  },
+  "IBPS RRB": {
+    "pageTitle": "IBPS RRB 2026 Schedule",
+    "records": [
+      {
+        "event": "RRB Officer Scale I (Prelims)",
+        "date": "2026-08-12",
+        "iso": [
+          "2026-08-12"
+        ]
+      },
+      {
+        "event": "RRB Officer Scale I (Mains)",
+        "date": "2026-10-15",
+        "iso": [
+          "2026-10-15"
+        ]
+      },
+      {
+        "event": "RRB Office Assistants I (Prelims)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "RRB Office Assistants I (Mains)",
+        "date": "2026-10-16",
+        "iso": [
+          "2026-10-16"
+        ]
+      },
+      {
+        "event": "RRB Officer Scale II & III",
         "date": "2026-10-16",
         "iso": [
           "2026-10-16"
